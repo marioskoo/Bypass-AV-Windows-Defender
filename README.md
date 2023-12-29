@@ -41,7 +41,7 @@ al termine questo sarà il nostro payload offuscato.
    Adesso che abbiamo ottenuto una shell possiamo eseguire i comandi che più preferiamo.
 
 
-<img width="553" alt="Screenshot 2023-12-29 alle 15 16 14" src="https://github.com/marioskoo/Bypass-AV-Windows-Defender/assets/105681127/733033ad-0f6b-4f7f-8280-255c2cabd108">
+  <img width="553" alt="Screenshot 2023-12-29 alle 15 16 14" src="https://github.com/marioskoo/Bypass-AV-Windows-Defender/assets/105681127/733033ad-0f6b-4f7f-8280-255c2cabd108">
 
    
 
