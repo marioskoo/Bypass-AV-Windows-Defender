@@ -1,8 +1,11 @@
 # Bypass-AV-Windows-Defender
-This is a guide for Bypassing any AV and windows defender using a concatenation of tools (Hoaxshell and Chimera)
+
+Questa è una semplice guida creata da Mariano Forte per scopi di ricerca, l'obiettivo è quello di utilizzare Chimera per offuscare il payload creato precedentemente con Hoaxshell. Bypassando così qualunque AV o qualsiasi Defender.
 
 
 
 
-![](solucion.png)
+
+
+![](chimera1.png)
 
